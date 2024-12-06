@@ -7,3 +7,8 @@ git clone https://github.com/mukundvishwa95/The-OG-Recon-Script.git
 cd THE-OG-Recon-Script
 sudo ./install.sh
 ```
+# Usage
+
+```
+og-recon domain.com
+```
