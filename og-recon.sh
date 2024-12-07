@@ -151,7 +151,7 @@ echo "Domain Scan Finished..........."
 echo -e "${red}|--------------------------------------------------|${reset}"
 
 echo -e "${blue}|====================================|${reset}"
-echo -e "${green}|=====Initializing Additional RECON====|${reset}"
+echo -e "${green}|===Initializing Additional RECON===|${reset}"
 echo -e "${blue}|====================================|${reset}"
 
 
@@ -180,13 +180,13 @@ wait
 echo -e "${yellow}{*}Whois recon finished, stored in $dir/whois.txt${reset}"
 
 echo "{~} Prepearing mapped data"
-amass -enum -d $domain -o maped_data.txt > /dev/null &
+amass enum -d $domain -o maped_data.txt > /dev/null &
 spinner $!
 wait
 echo "[*] Mapped Data Fetched"
 
 echo -e "${blue}|====================================|${reset}"
-echo -e "${green}|==========NETWORK SCANNING=========|${reset}"
+echo -e "${green}|==========NETWORK SCANNING==========|${reset}"
 echo -e "${blue}|====================================|${reset}"
 
 
