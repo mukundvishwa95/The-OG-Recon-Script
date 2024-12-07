@@ -18,3 +18,18 @@ sudo ./install.sh
 ```
 og-recon domain.com
 ```
+
+# Features
+**Find:**
+--> Sub Domain
+--> Sub-Sub Domain
+--> DNS Records
+--> WHOIS Records
+It aslo provides you with **Network Recon and Mapped Data**.
+**Remeber**
+It's just a automation script not a tool itself.
+It's accuracy depends upon the tool used.
+When you ./install.sh all the required tools get installed onto your system and if they are already installed then they get a check for update.
+So, please try running ./install.sh frequently in the case of any tool update.
+
+
