@@ -34,6 +34,7 @@ So, please try running ./install.sh frequently in the case of any tool update.
 
 # Tools
 --> Subfinder
+--> Httprobe
 --> Amass
 --> Dig
 --> Whois
