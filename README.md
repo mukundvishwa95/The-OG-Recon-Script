@@ -32,4 +32,10 @@ It's accuracy depends upon the tool used.
 When you ./install.sh all the required tools get installed onto your system and if they are already installed then they get a check for update.
 So, please try running ./install.sh frequently in the case of any tool update.
 
+# Tools
+--> Subfinder
+--> Amass
+--> Dig
+--> Whois
+--> Nmap
 
