@@ -23,6 +23,7 @@ og-recon domain.com
 **Find:**
 --> Sub Domain
 --> Sub-Sub Domain
+--> Parameters
 --> DNS Records
 --> WHOIS Records
 It aslo provides you with **Network Recon and Mapped Data**.
@@ -35,6 +36,8 @@ So, please try running ./install.sh frequently in the case of any tool update.
 # Tools
 --> Subfinder
 --> Httprobe
+--> Assetfinder
+--> Paramspider
 --> Amass
 --> Dig
 --> Whois
